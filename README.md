@@ -6,7 +6,7 @@ I'm a Software Engineering student at the University of Sheffield
 
 ## 🛠 Tech Stack
 
-**Mainly:** Python, Django, FastAPI, PostgreSQL, Supabase, Redis, and Firebase
+**Mainly:** Python, Django, FastAPI, Java, Spring, PostgreSQL, Supabase, Redis, and Firebase
 
 ## 🔑 Key Highlights
 
