@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a Software Engineering student at the University of Sheffield
+I'm a Software Engineering graduate from the University of Sheffield
 
 ## 🛠 Tech Stack
 
